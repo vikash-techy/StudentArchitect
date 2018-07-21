@@ -1,0 +1,24 @@
+.box {
+    display: flex;
+    justify-content: space-around;
+    background-color: #00b3ee;
+    text-align: center;
+  }
+
+  .one {
+    flex: 1 1 auto;
+    margin: 10px;
+    background-color: #e15c62;
+  }
+
+  .two {
+    flex: 1 1 auto;
+    margin: 10px;
+    background-color: aquamarine;
+  }
+
+  .three {
+    flex: 1 1 auto;
+    margin: 10px;
+    background-color: rgb(76, 236, 76);
+  }
